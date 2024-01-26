@@ -34,7 +34,7 @@ Begin the program by typing into your terminal `node server.js`/`npm run start` 
 Walkthrough video showing functionality of program:
 * Link to walkthrough video: *(click the code snippet)*
 
-[![Screenshot of code snippet](./E-CommerceClip.png)]( "Walkthrough Video")
+[![Screenshot of code snippet](./E-CommerceClip.png)](https://watch.screencastify.com/v/3BkRiTWZB9aFlsD4kS6h "Walkthrough Video")
 
 ## Credits
 
